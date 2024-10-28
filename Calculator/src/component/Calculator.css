@@ -1,0 +1,32 @@
+#number-block {
+  border: 4px solid royalblue;
+  background-color: royalblue;
+  height: 220px;
+  width: 200px;
+}
+
+#number-show {
+  border: 4px solid darkblue;
+  background-color: darkblue;
+  width: 200px;
+}
+
+#calculator {
+  margin-left: 150px;
+}
+
+button {
+  color: darkblue;
+  font-family: fantasy;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+#display {
+  margin-left: 300px;
+  margin-top: -80px;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
